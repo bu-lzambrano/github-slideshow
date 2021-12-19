@@ -1,5 +1,7 @@
 ## Note: I have left this repo here for my students at Bryan University for a lab they must complete. It is not actually monitored or supported.
 
+You will want to look at issues https://github.com/bu-lzambrano/github-slideshow/issues?q=is%3Aissue+is%3Aclosed and actions.
+
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
